@@ -19,7 +19,7 @@ Whether you're a developer looking to learn about 3D graphics or someone wanting
 - **JavaScript:** Used for dynamic interactions, event handling, and controlling the 3D scene.
 
 <!--## Demo
-You can see a live demo of the project on [CodePen](...). -->
+You can see a live demo of the project on (...). -->
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ To run this project locally, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sphere-gravity.git
+   git clone https://github.com/ShambhaviSingh16/Gravitas3D.git
    ```
    OR  Download the project files.
 2. Open the downloaded files in the VS Code.
