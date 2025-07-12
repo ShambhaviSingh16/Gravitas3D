@@ -18,8 +18,8 @@ Whether you're a developer looking to learn about 3D graphics or someone wanting
 - **CSS3:** For styling the page and creating a responsive, visually appealing interface.
 - **JavaScript:** Used for dynamic interactions, event handling, and controlling the 3D scene.
 
-<!--## Demo
-You can see a live demo of the project on (...). -->
+## Demo
+You can see a live demo of the project on ( https://shambhavisingh16.github.io/Gravitas3D/ ). 
 
 ## 🚀 Getting Started
 
